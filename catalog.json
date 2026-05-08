@@ -314,7 +314,7 @@
   {
     "id": "tt6840636",
     "type": "movie",
-    "name": "The Fog",
+    "name": "tt0080749",
     "name_pt": "O Nevoeiro",
     "year": "1985.0",
     "director": "John Carpenter",
@@ -416,11 +416,11 @@
     ]
   },
   {
-    "id": "tt0094588",
+    "id": "tt0074080",
     "type": "movie",
     "name": "Gator Bait",
     "name_pt": "A Rainha do Pântano",
-    "year": "1988.0",
+    "year": "1973.0",
     "director": "Ferd Sebastian, Beverly Sebastian",
     "genre": "Acção",
     "formato": "VHS",
@@ -1729,12 +1729,12 @@
     ]
   },
   {
-    "id": "tt0074478",
+    "id": "tt0072930",
     "type": "movie",
     "name": "Black Emanuelle",
     "name_pt": "Emanuelle Negra",
-    "year": "1982.0",
-    "director": "Bruno Mattei",
+    "year": "1975.0",
+    "director": "Bitto Albertini",
     "genre": "Erótico",
     "formato": "VHS",
     "formatos": [
@@ -2145,12 +2145,12 @@
     ]
   },
   {
-    "id": "tt0085514",
+    "id": "tt0080707",
     "type": "movie",
     "name": "The Exterminator",
     "name_pt": "The Exterminator",
-    "year": "1983.0",
-    "director": "Giuliano Carnimeo",
+    "year": "1980.0",
+    "director": "James Glickenhaus",
     "genre": "Acção",
     "formato": "VHS",
     "formatos": [
@@ -3042,12 +3042,12 @@
     ]
   },
   {
-    "id": "tt1237961",
+    "id": "tt2112267",
     "type": "movie",
     "name": "Silent But Deadly",
     "name_pt": "A Bomba Engarrafada",
-    "year": "2011.0",
-    "director": "Stephen Scott",
+    "year": "1986.0",
+    "director": "Larry G. Brown",
     "genre": "Comédia",
     "formato": "VHS",
     "formatos": [
@@ -3135,10 +3135,10 @@
   {
     "id": "tt0266797",
     "type": "movie",
-    "name": "Newman",
+    "name": "And You Thought Your Parents Were Weird",
     "name_pt": "Um Robôt do Outro Mundo",
-    "year": "1992.0",
-    "director": "Steve Bendelack, Marcus Mortimer",
+    "year": "1991.0",
+    "director": "Tony Cookson",
     "genre": "Comédia",
     "formato": "VHS",
     "formatos": [
@@ -3632,7 +3632,7 @@
     "name": "La chica que cayó del cielo",
     "name_pt": "A Pousada do Amor",
     "year": "1986.0",
-    "director": "Hubert Frank",
+    "director": "nao encontrado",
     "genre": "Erótico",
     "formato": "VHS",
     "formatos": [
@@ -4050,6 +4050,1436 @@
     "year": "1976.0",
     "director": "Charles B. Pierce",
     "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0095956",
+    "type": "movie",
+    "name": "Rambo III",
+    "name_pt": "Rambo III",
+    "year": "1988.0",
+    "director": "Peter MacDonald",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0094012",
+    "type": "movie",
+    "name": "Spaceballs",
+    "name_pt": "A Mais Louca Odisseia no Espaço",
+    "year": "1987.0",
+    "director": "Mel Brooks",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0105242",
+    "type": "movie",
+    "name": "The Resurrected",
+    "name_pt": "Os Ressuscitados",
+    "year": "1991.0",
+    "director": "Dan O'Bannon",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0085918",
+    "type": "movie",
+    "name": "Mausoleum",
+    "name_pt": "Mausoléo",
+    "year": "1983.0",
+    "director": "Michael Dugan",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0091710",
+    "type": "movie",
+    "name": "Overkill",
+    "name_pt": "Cidade Violenta",
+    "year": "1987.0",
+    "director": "Ulli Lommel",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0083944",
+    "type": "movie",
+    "name": "First Blood",
+    "name_pt": "A Fúria do Herói",
+    "year": "1982.0",
+    "director": "Ted Kotcheff",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0068468",
+    "type": "movie",
+    "name": "Deep Throat",
+    "name_pt": "Grarganta Funda",
+    "year": "1972.0",
+    "director": "Gerard Daminao",
+    "genre": "Pornográfico",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0090166",
+    "type": "movie",
+    "name": "The Throne of Fire",
+    "name_pt": "A Espada de Fogo",
+    "year": "1983.0",
+    "director": "Franco Prosperi",
+    "genre": "Fantasia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0087075",
+    "type": "movie",
+    "name": "The Company of Wolves",
+    "name_pt": "A Companhia dos Lobos",
+    "year": "1984.0",
+    "director": "Neil Jordan",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0091431",
+    "type": "movie",
+    "name": "The Armour of God",
+    "name_pt": "O Guerreiro de Deus",
+    "year": "1986.0",
+    "director": "成龍",
+    "genre": "Artes Marciais",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0111264",
+    "type": "movie",
+    "name": "Spitfire",
+    "name_pt": "A Demolidora",
+    "year": "1995.0",
+    "director": "Albert Pyun",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0092746",
+    "type": "movie",
+    "name": "Cherry 2000",
+    "name_pt": "A Boneca Mecânica",
+    "year": "1987.0",
+    "director": "Steve De Jarnatt",
+    "genre": "Ficção Científica",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0097874",
+    "type": "movie",
+    "name": "Metamorphosis",
+    "name_pt": "Experiência Motífera",
+    "year": "1990.0",
+    "director": "George Eastman",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0085416",
+    "type": "movie",
+    "name": "The Dark Side of Love",
+    "name_pt": "O Lado Sensual de Patrícia",
+    "year": "1984.0",
+    "director": "John Carr",
+    "genre": "Erótico",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt4721906",
+    "type": "movie",
+    "name": "La donna dell’isola",
+    "name_pt": "A Dama da ilha",
+    "year": "1989.0",
+    "director": "Lorenzo Onorati",
+    "genre": "Erótico",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0105183",
+    "type": "movie",
+    "name": "Prototype",
+    "name_pt": "Protótipo",
+    "year": "1992.0",
+    "director": "Phillip J. Roth",
+    "genre": "Ficção Científica",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0153056",
+    "type": "movie",
+    "name": "Thrilling Love",
+    "name_pt": "Amort Traiçoeiro",
+    "year": "1989.0",
+    "director": "Maurizio Pradeaux",
+    "genre": "Erótico",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0108124",
+    "type": "movie",
+    "name": "Showdown",
+    "name_pt": "Acerto Final",
+    "year": "1993.0",
+    "director": "Leo Fong",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0100338",
+    "type": "movie",
+    "name": "Passion's Flower",
+    "name_pt": "Paixão Ardente",
+    "year": "1991.0",
+    "director": "Joe D'Amato",
+    "genre": "Erótico",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0069944",
+    "type": "movie",
+    "name": "The Daring Dobermans",
+    "name_pt": "O Assalto dos Doberman",
+    "year": "1973.0",
+    "director": "Byron Chudnow",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0094144",
+    "type": "movie",
+    "name": "Thunder III",
+    "name_pt": "A Vingança do Guerreiro",
+    "year": "1988.0",
+    "director": "Fabrizio De Angelis",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0096453",
+    "type": "movie",
+    "name": "La casa 4 (Witchcraft)",
+    "name_pt": "Ritos Satânicos",
+    "year": "1988.0",
+    "director": "Fabrizio Laurenti",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0071402",
+    "type": "movie",
+    "name": "Death Wish",
+    "name_pt": "O Justiceiro da Noite",
+    "year": "1974.0",
+    "director": "Michael Winner",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0238080",
+    "type": "movie",
+    "name": "The Black Cobra 2",
+    "name_pt": "Jogo de Vida ou de Morte",
+    "year": "1989.0",
+    "director": "Edoardo Margheriti",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0165363",
+    "type": "movie",
+    "name": "Lin shing kuet",
+    "name_pt": "Segredo Mortal",
+    "year": "1989.0",
+    "director": "牟敦芾",
+    "genre": "Artes Marciais",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0086276",
+    "type": "movie",
+    "name": "Siege",
+    "name_pt": "Cidade Sem Lei",
+    "year": "1983.0",
+    "director": "Paul Donovan, Maura O'Connell",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0072331",
+    "type": "movie",
+    "name": "Horror High",
+    "name_pt": "Academia de Terror",
+    "year": "1973.0",
+    "director": "Larry N. Stouffer",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0100637",
+    "type": "movie",
+    "name": "The Sleeping Car",
+    "name_pt": "O Comboio Assassino",
+    "year": "1990.0",
+    "director": "Douglas Curtis",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0089269",
+    "type": "movie",
+    "name": "Hellhole",
+    "name_pt": "Tormentos e Vingança",
+    "year": "1985.0",
+    "director": "Pierre De Moro",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0131046",
+    "type": "movie",
+    "name": "T.N.T.",
+    "name_pt": "T.N.T.",
+    "year": "1997.0",
+    "director": "Robert Radler",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0087507",
+    "type": "movie",
+    "name": "Johnny Dangerously",
+    "name_pt": "Os Gangsters Malandros",
+    "year": "1984.0",
+    "director": "Amy Heckerling",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0103674",
+    "type": "movie",
+    "name": "American Streetfighter",
+    "name_pt": "O Duro Americano",
+    "year": "1992.0",
+    "director": "Steven L. Austin",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0102655",
+    "type": "movie",
+    "name": "The Perfect Weapon",
+    "name_pt": "A Arma Perfeita",
+    "year": "1991.0",
+    "director": "Mark DiSalle",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0106759",
+    "type": "movie",
+    "name": "Double Blast",
+    "name_pt": "Luta Mortífera",
+    "year": "1994.0",
+    "director": "Tim Spring",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0089243",
+    "type": "movie",
+    "name": "Gymkata",
+    "name_pt": "O Jogo da Morte",
+    "year": "1985.0",
+    "director": "Robert Clouse",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0099817",
+    "type": "movie",
+    "name": "Dark Angel",
+    "name_pt": "O Anjo Negro",
+    "year": "1990.0",
+    "director": "Craig R. Baxley",
+    "genre": "Ficção Científica",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0102370",
+    "type": "movie",
+    "name": "Madonna: Truth or Dare",
+    "name_pt": "Na Cama com Madonna",
+    "year": "1991.0",
+    "director": "Alek Keshishian",
+    "genre": "Documentário",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0181604",
+    "type": "movie",
+    "name": "Jailbird Rock",
+    "name_pt": "Jovens Deliquentes",
+    "year": "1985.0",
+    "director": "Phillip Schuman",
+    "genre": "Musical",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0077241",
+    "type": "movie",
+    "name": "Blackout",
+    "name_pt": "Pânico em Nova Iorque",
+    "year": "1978.0",
+    "director": "Eddy Matalon",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0093999",
+    "type": "movie",
+    "name": "Snow White",
+    "name_pt": "Branca de Neve e os 7 Anões",
+    "year": "1987.0",
+    "director": "Michael Berz",
+    "genre": "Fantasia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0103300",
+    "type": "movie",
+    "name": "Xia nu chuan qi",
+    "name_pt": "Espada Mortal",
+    "year": "1992.0",
+    "director": "Sherman Wong",
+    "genre": "Artes Marciais",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0151131",
+    "type": "movie",
+    "name": "Jewel of the Gods",
+    "name_pt": "Joia dos Deuses",
+    "year": "1989.0",
+    "director": "Robert van de Coolwijk",
+    "genre": "Aventura",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0082699",
+    "type": "movie",
+    "name": "Makai tenshô",
+    "name_pt": "Reencarnação do Samurai",
+    "year": "1981.0",
+    "director": "Kinji Fukasaku",
+    "genre": "Artes Marciais",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0095423",
+    "type": "movie",
+    "name": "Kadaicha",
+    "name_pt": "Sonhos Mortais",
+    "year": "1988.0",
+    "director": "James Bogle",
+    "genre": "Suspense",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0200073",
+    "type": "movie",
+    "name": "Liu xing fei ying",
+    "name_pt": "A Loucura Assassina",
+    "year": "1980.0",
+    "director": "Ko Pao",
+    "genre": "Artes Marciais",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0087229",
+    "type": "movie",
+    "name": "Exterminator 2",
+    "name_pt": "Exterminador 2",
+    "year": "1984.0",
+    "director": "Mark Buntzman",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0097098",
+    "type": "movie",
+    "name": "Comment faire l'amour avec un nègre sans se fatiguer",
+    "name_pt": "Como Fazer Amor Com Um Negro Sem Ficar Cansada",
+    "year": "1989.0",
+    "director": "nao encontrado",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0092624",
+    "type": "movie",
+    "name": "Beach Fever",
+    "name_pt": "Febre de Praia",
+    "year": "1987.0",
+    "director": "Alexander Tabrizi",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0121556",
+    "type": "movie",
+    "name": "Mirage",
+    "name_pt": "O Enviado da Morte",
+    "year": "1990.0",
+    "director": "nao encontrado",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0089503",
+    "type": "movie",
+    "name": "The Lost Empire",
+    "name_pt": "O Império Perdido",
+    "year": "1984.0",
+    "director": "Jim Wynorski",
+    "genre": "Aventura",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0100529",
+    "type": "movie",
+    "name": "Running Against Time",
+    "name_pt": "O Rio do Tempo",
+    "year": "1990.0",
+    "director": "Bruce Seth Green",
+    "genre": "Ficção Científica",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt1564972",
+    "type": "movie",
+    "name": "Visionaries",
+    "name_pt": "Os Heróis da Luz Mágica",
+    "year": "1987.0",
+    "director": "Chuck Workman",
+    "genre": "Animação",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt2570750",
+    "type": "movie",
+    "name": "The Dream Demon",
+    "name_pt": "Sonhos Demoniacos",
+    "year": "1988.0",
+    "director": "Johnny Dickie",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt5294620",
+    "type": "movie",
+    "name": "Hostage Syndrome",
+    "name_pt": "Força Sem Limite",
+    "year": "1988.0",
+    "director": "Eddie Rodriguez",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0202046",
+    "type": "movie",
+    "name": "Unmasking the Idol",
+    "name_pt": "O Mistério do Idolo de Fogo",
+    "year": "1986.0",
+    "director": "Worth Keeter",
+    "genre": "Aventura",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0094886",
+    "type": "movie",
+    "name": "Clownhouse",
+    "name_pt": "Eles Matam",
+    "year": "1989.0",
+    "director": "Victor Salva",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0317568",
+    "type": "movie",
+    "name": "Cobra Force",
+    "name_pt": "Operação Suicida",
+    "year": "1988.0",
+    "director": "Eddie Rodriguez",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0077651",
+    "type": "movie",
+    "name": "Halloween",
+    "name_pt": "Halloween",
+    "year": "1978.0",
+    "director": "John Carpenter",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0100265",
+    "type": "movie",
+    "name": "Ninja Academy",
+    "name_pt": "Academia de Ninjas",
+    "year": "1989.0",
+    "director": "Nico Mastorakis",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0095296",
+    "type": "movie",
+    "name": "Hero and the Terror",
+    "name_pt": "A Face da Morte",
+    "year": "1988.0",
+    "director": "William Tannen",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0106453",
+    "type": "movie",
+    "name": "Body of Evidence",
+    "name_pt": "Madonna: Corpo de Delito",
+    "year": "1993.0",
+    "director": "Uli Edel",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0106639",
+    "type": "movie",
+    "name": "Cyborg 2: Glass Shadow",
+    "name_pt": "Cyborg 2",
+    "year": "1993.0",
+    "director": "Michael Schroeder",
+    "genre": "Ficção Científica",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0095944",
+    "type": "movie",
+    "name": "Quiet Thunder",
+    "name_pt": "Perseguição na Selva",
+    "year": "1988.0",
+    "director": "BJ Davis",
+    "genre": "Aventura",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0087607",
+    "type": "movie",
+    "name": "La leggenda del rubino malese",
+    "name_pt": "Salteadores da Selva Perdida",
+    "year": "1985.0",
+    "director": "Antonio Margheriti",
+    "genre": "Aventura",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0081558",
+    "type": "movie",
+    "name": "Steel",
+    "name_pt": "Homens de Aço",
+    "year": "1979.0",
+    "director": "Steve Carver",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0122145",
+    "type": "movie",
+    "name": "Empire of Ash III",
+    "name_pt": "Os Guerreiros da Estrada",
+    "year": "1989.0",
+    "director": "Michael Mazo, Lloyd A. Simandl",
+    "genre": "Ficção Científica",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0092565",
+    "type": "movie",
+    "name": "American Commando: Angel's Blood Mission",
+    "name_pt": "Comando Americano: Acção no Inferno",
+    "year": "1987.0",
+    "director": "高飛",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0166674",
+    "type": "movie",
+    "name": "Il ragazzo dal kimono d'oro",
+    "name_pt": "O Mestre do Karate",
+    "year": "1987.0",
+    "director": "Fabrizio De Angelis",
+    "genre": "Artes Marciais",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0199936",
+    "type": "movie",
+    "name": "Drunken Master",
+    "name_pt": "O Grande Mestre dos Lutadores",
+    "year": "1978.0",
+    "director": "張智超",
+    "genre": "Artes Marciais",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0194926",
+    "type": "movie",
+    "name": "Craving Desire",
+    "name_pt": "Garras de Paixão e Desejo",
+    "year": "1993.0",
+    "director": "Sergio Martino",
+    "genre": "Erótico",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0096144",
+    "type": "movie",
+    "name": "Sotto il vestito niente II",
+    "name_pt": "Demasiado Bela Para Morrer",
+    "year": "1988.0",
+    "director": "Dario Piana",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0207093",
+    "type": "movie",
+    "name": "Shallow Grave",
+    "name_pt": "Testemunha a Eliminar",
+    "year": "1987.0",
+    "director": "Richard Styles",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0066365",
+    "type": "movie",
+    "name": "Shark!",
+    "name_pt": "O Devorador",
+    "year": "1969.0",
+    "director": "Samuel Fuller",
+    "genre": "Aventura",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0096063",
+    "type": "movie",
+    "name": "Search and Destroy",
+    "name_pt": "Gente Perigosa",
+    "year": "1988.0",
+    "director": "J. Christian Ingvordsen",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0079309",
+    "type": "movie",
+    "name": "Hot T-Shirts",
+    "name_pt": "T-Shirts Molhadas",
+    "year": "1980.0",
+    "director": "Chuck Vincent",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0092271",
+    "type": "movie",
+    "name": "Young Nurses in Love",
+    "name_pt": "Enfermeiras do Amor",
+    "year": "1987.0",
+    "director": "Chuck Vincent",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0180831",
+    "type": "movie",
+    "name": "Miami Beach Cops",
+    "name_pt": "Um Par de Duros",
+    "year": "1993.0",
+    "director": "James Winburn",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0076112",
+    "type": "movie",
+    "name": "Mad Man",
+    "name_pt": "O Homem Mau",
+    "year": "1981.0",
+    "director": "Jesús Franco",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0081230",
+    "type": "movie",
+    "name": "Night of the Juggler",
+    "name_pt": "A Noite do Falcão",
+    "year": "1980.0",
+    "director": "Robert Butler",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0083630",
+    "type": "movie",
+    "name": "The Beastmaster",
+    "name_pt": "O Guerreiro Sagrado",
+    "year": "1982.0",
+    "director": "Don Coscarelli",
+    "genre": "Fantasia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0086896",
+    "type": "movie",
+    "name": "Angel",
+    "name_pt": "Angel",
+    "year": "1984.0",
+    "director": "Robert Vincent O'Neil",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0096825",
+    "type": "movie",
+    "name": "Any Time, Any Play",
+    "name_pt": "Atracção Escaldante",
+    "year": "1990.0",
+    "director": "Joe D'Amato",
+    "genre": "Erótico",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0103596",
+    "type": "movie",
+    "name": "3 Ninjas",
+    "name_pt": "3 Ninjas",
+    "year": "1992.0",
+    "director": "Jon Turteltaub",
+    "genre": "Aventura",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0099414",
+    "type": "movie",
+    "name": "Detective Malone",
+    "name_pt": "O Regresso de Black Cobra",
+    "year": "1991.0",
+    "director": "Umberto Lenzi",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0087001",
+    "type": "movie",
+    "name": "A Breed Apart",
+    "name_pt": "O Guardião",
+    "year": "1984.0",
+    "director": "Philippe Mora",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0089993",
+    "type": "movie",
+    "name": "Serpent Warriors",
+    "name_pt": "A Seita da Serpente",
+    "year": "1987.0",
+    "director": "John Howard, Niels Rasmussen",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0099368",
+    "type": "movie",
+    "name": "Daughter of Darkness",
+    "name_pt": "A Filha das Trevas",
+    "year": "1990.0",
+    "director": "Stuart Gordon",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0083711",
+    "type": "movie",
+    "name": "I Camionisti",
+    "name_pt": "Os Camionistas",
+    "year": "1982.0",
+    "director": "Flavio Mogherini",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0085121",
+    "type": "movie",
+    "name": "10 to Midnight",
+    "name_pt": "10 Prá Meia-Noite",
+    "year": "1983.0",
+    "director": "J. Lee Thompson",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0071519",
+    "type": "movie",
+    "name": "Frankenstein and the Monster from Hell",
+    "name_pt": "Frankenstein: O Monstro do Inferno",
+    "year": "1974.0",
+    "director": "Terence Fisher",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt13924450",
+    "type": "movie",
+    "name": "The Other Side",
+    "name_pt": "Conspiração Diabólica",
+    "year": "1990.0",
+    "director": "Peter Bergman",
+    "genre": "Thriller",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0199850",
+    "type": "movie",
+    "name": "Zhi zun shen tou",
+    "name_pt": "Ninja - Thunderbolt",
+    "year": "1984.0",
+    "director": "何志强, 金銘",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0223554",
+    "type": "movie",
+    "name": "Italiani a Rio",
+    "name_pt": "Três Italianos no Rio",
+    "year": "1987.0",
+    "director": "Michele Massimo Tarantini",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0092296",
+    "type": "movie",
+    "name": "Zombie Brigade",
+    "name_pt": "Brigada Zombie",
+    "year": "1989.0",
+    "director": "Barrie Pattison, Carmelo Musca",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0099697",
+    "type": "movie",
+    "name": "Graveyard Shift",
+    "name_pt": "Túmulo Vivo",
+    "year": "1990.0",
+    "director": "Ralph S. Singleton",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0084212",
+    "type": "movie",
+    "name": "Kitty and the Bagman",
+    "name_pt": "Rainhas do Crime",
+    "year": "1982.0",
+    "director": "Donald Crombie",
+    "genre": "Crime",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0089305",
+    "type": "movie",
+    "name": "Hot Resort",
+    "name_pt": "Gelado de Limão VI",
+    "year": "1985.0",
+    "director": "John Robins",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0099187",
+    "type": "movie",
+    "name": "Buried Alive",
+    "name_pt": "Enterrados Vivos",
+    "year": "1989.0",
+    "director": "Gérard Kikoïne",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0092115",
+    "type": "movie",
+    "name": "Troll",
+    "name_pt": "Torok: O Monstro da Floresta",
+    "year": "1986.0",
+    "director": "John Carl Buechler",
+    "genre": "Fantasia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0097257",
+    "type": "movie",
+    "name": "Earth Girls Are Easy",
+    "name_pt": "Absolutamente Loucos",
+    "year": "1988.0",
+    "director": "Julien Temple",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0104823",
+    "type": "movie",
+    "name": "Martial Law 2: Undercover",
+    "name_pt": "Lei Marcial 2",
+    "year": "1990.0",
+    "director": "Kurt Anderson",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0101579",
+    "type": "movie",
+    "name": "China O'Brien",
+    "name_pt": "China O'Brien: A Lutadora",
+    "year": "1990.0",
+    "director": "Robert Clouse",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0199846",
+    "type": "movie",
+    "name": "Ninja Strike Force",
+    "name_pt": "Ninja: Caminho Violento",
+    "year": "1988.0",
+    "director": "Joseph Lai San-Lun",
+    "genre": "Acção",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0104449",
+    "type": "movie",
+    "name": "House IV",
+    "name_pt": "Decisão para a Loucura",
+    "year": "1992.0",
+    "director": "Lewis Abernathy",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0077945",
+    "type": "movie",
+    "name": "La montagna del dio cannibale",
+    "name_pt": "A Montanha do Deus Canibal",
+    "year": "1978.0",
+    "director": "Sergio Martino",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0078935",
+    "type": "movie",
+    "name": "Cannibal Holocaust",
+    "name_pt": "Holocausto Canibal",
+    "year": "1980.0",
+    "director": "Ruggero Deodato",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0078437",
+    "type": "movie",
+    "name": "Ultimo mondo cannibale",
+    "name_pt": "O Último Mundo Canibal",
+    "year": "1977.0",
+    "director": "Ruggero Deodato",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0082700",
+    "type": "movie",
+    "name": "Cannibal Ferox",
+    "name_pt": "Canibal Feroz",
+    "year": "1981.0",
+    "director": "Umberto Lenzi",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0081112",
+    "type": "movie",
+    "name": "Mangiati vivi",
+    "name_pt": "Comidos Vivos",
+    "year": "1980.0",
+    "director": "Umberto Lenzi",
+    "genre": "Horror",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0094149",
+    "type": "movie",
+    "name": "Tigershark",
+    "name_pt": "Força Destruidora",
+    "year": "1987.0",
+    "director": "Emmett Alston",
+    "genre": "Acção",
     "formato": "VHS",
     "formatos": [
       "VHS"
