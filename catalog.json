@@ -2327,12 +2327,12 @@
     ]
   },
   {
-    "id": "tt1534549",
+    "id": "tt0095454",
     "type": "movie",
     "name": "The Kiss",
     "name_pt": "O Beijo Mortal",
-    "year": "1990.0",
-    "director": "Alexis Bisticas",
+    "year": "1988.0",
+    "director": "Pen Densham",
     "genre": "Horror",
     "formato": "VHS",
     "formatos": [
@@ -2735,7 +2735,7 @@
     "name": "Sport Billy",
     "name_pt": "Sport Billy - A Cambada em Ritmo Acelerado",
     "year": "1979.0",
-    "director": "nao encontrado",
+    "director": "",
     "genre": "Animação",
     "formato": "VHS",
     "formatos": [
@@ -3060,7 +3060,7 @@
     "name": "Teen Wolf III",
     "name_pt": "As Novas Aventuras do Super Lobinho",
     "year": "1986.0",
-    "director": "nao encontrado",
+    "director": "",
     "genre": "Animação",
     "formato": "VHS",
     "formatos": [
@@ -3133,12 +3133,12 @@
     ]
   },
   {
-    "id": "tt0069341",
+    "id": "tt0057569",
     "type": "movie",
     "name": "The Terror",
     "name_pt": "O Terror",
-    "year": "1988.0",
-    "director": "William Tannen",
+    "year": "1963.0",
+    "director": "Roger Corman, Francis Ford Coppola, Jack Hale",
     "genre": "Horror",
     "formato": "VHS",
     "formatos": [
@@ -3159,7 +3159,7 @@
     ]
   },
   {
-    "id": "tt0266797",
+    "id": "tt0101343",
     "type": "movie",
     "name": "And You Thought Your Parents Were Weird",
     "name_pt": "Um Robôt do Outro Mundo",
@@ -3211,12 +3211,12 @@
     ]
   },
   {
-    "id": "tt8312816",
+    "id": "tt0090578",
     "type": "movie",
     "name": "Abducted",
     "name_pt": "Rapto Selvagem",
-    "year": "1991.0",
-    "director": "Sherif Yehia",
+    "year": "1986.0",
+    "director": "Boon Collins",
     "genre": "Thriller",
     "formato": "VHS",
     "formatos": [
@@ -3372,7 +3372,7 @@
     "name": "Denver, The Last Dinossaur",
     "name_pt": "Denver - O Dinossauro Trapalhão",
     "year": "1988.0",
-    "director": "nao encontrado",
+    "director": "",
     "genre": "Animação",
     "formato": "VHS",
     "formatos": [
@@ -3432,7 +3432,7 @@
     ]
   },
   {
-    "id": "tt0053472",
+    "id": "tt0105925",
     "type": "movie",
     "name": "Ultimo respiro",
     "name_pt": "Até ao Último Folego",
@@ -4477,7 +4477,7 @@
     "name": "Blonde Heat (The Case of the Maltese Dildo)",
     "name_pt": "O Que é o Vibrador Maltês?",
     "year": "1985.0",
-    "director": "nao encontrado",
+    "director": "Tim McDonald",
     "genre": "Pornográfico",
     "formato": "VHS",
     "formatos": [
@@ -4724,7 +4724,7 @@
     "name": "Tong tian da dao",
     "name_pt": "A Fúria do Dinheiro",
     "year": "1987.0",
-    "director": "nao encontrado",
+    "director": "Stephen Shin",
     "genre": "Acção",
     "formato": "VHS",
     "formatos": [
@@ -4776,7 +4776,7 @@
     "name": "Comment faire l'amour avec un nègre sans se fatiguer",
     "name_pt": "Como Fazer Amor Com Um Negro Sem Ficar Cansada",
     "year": "1989.0",
-    "director": "nao encontrado",
+    "director": "Jacques W. Benoit",
     "genre": "Comédia",
     "formato": "VHS",
     "formatos": [
@@ -4802,7 +4802,7 @@
     "name": "Mirage",
     "name_pt": "O Enviado da Morte",
     "year": "1990.0",
-    "director": "nao encontrado",
+    "director": "Bill Crain",
     "genre": "Horror",
     "formato": "VHS",
     "formatos": [
@@ -4849,12 +4849,12 @@
     ]
   },
   {
-    "id": "tt2570750",
+    "id": "tt0095063",
     "type": "movie",
-    "name": "The Dream Demon",
+    "name": "Dream Demon",
     "name_pt": "Sonhos Demoniacos",
     "year": "1988.0",
-    "director": "Johnny Dickie",
+    "director": "Harley Cokeliss",
     "genre": "Horror",
     "formato": "VHS",
     "formatos": [
@@ -5174,12 +5174,12 @@
     ]
   },
   {
-    "id": "tt0076112",
+    "id": "tt0082696",
     "type": "movie",
-    "name": "Mad Man",
+    "name": "Madman",
     "name_pt": "O Homem Mau",
     "year": "1981.0",
-    "director": "Jesús Franco",
+    "director": "Joe Giannone",
     "genre": "Horror",
     "formato": "VHS",
     "formatos": [
