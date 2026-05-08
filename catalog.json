@@ -2730,6 +2730,19 @@
     ]
   },
   {
+    "id": "tt0131598",
+    "type": "movie",
+    "name": "Sport Billy",
+    "name_pt": "Sport Billy - A Cambada em Ritmo Acelerado",
+    "year": "1979.0",
+    "director": "nao encontrado",
+    "genre": "Animação",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
     "id": "tt0095179",
     "type": "movie",
     "name": "Friday the 13th: The New Blood",
@@ -3042,6 +3055,19 @@
     ]
   },
   {
+    "id": "tt0272412",
+    "type": "movie",
+    "name": "Teen Wolf III",
+    "name_pt": "As Novas Aventuras do Super Lobinho",
+    "year": "1986.0",
+    "director": "nao encontrado",
+    "genre": "Animação",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
     "id": "tt2112267",
     "type": "movie",
     "name": "Silent But Deadly",
@@ -3302,6 +3328,19 @@
     ]
   },
   {
+    "id": "tt0196472",
+    "type": "movie",
+    "name": "Corporate Assets",
+    "name_pt": "Executivas em Bikini",
+    "year": "",
+    "director": "nao encontrado",
+    "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
     "id": "tt0091472",
     "type": "movie",
     "name": "The Manhattan Project",
@@ -3322,6 +3361,19 @@
     "year": "1986.0",
     "director": "George Mendeluk",
     "genre": "Comédia",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0190178",
+    "type": "movie",
+    "name": "Denver, The Last Dinossaur",
+    "name_pt": "Denver - O Dinossauro Trapalhão",
+    "year": "1988.0",
+    "director": "nao encontrado",
+    "genre": "Animação",
     "formato": "VHS",
     "formatos": [
       "VHS"
@@ -3632,7 +3684,7 @@
     "name": "La chica que cayó del cielo",
     "name_pt": "A Pousada do Amor",
     "year": "1986.0",
-    "director": "nao encontrado",
+    "director": "Hubert Frank",
     "genre": "Erótico",
     "formato": "VHS",
     "formatos": [
@@ -4420,6 +4472,45 @@
     ]
   },
   {
+    "id": "tt0123522",
+    "type": "movie",
+    "name": "Blonde Heat (The Case of the Maltese Dildo)",
+    "name_pt": "O Que é o Vibrador Maltês?",
+    "year": "1985.0",
+    "director": "nao encontrado",
+    "genre": "Pornográfico",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0158062",
+    "type": "movie",
+    "name": "Pam & Tommy Lee: Stolen Honeymoon",
+    "name_pt": "Vicios Secretos de Pamela",
+    "year": "1995.0",
+    "director": "Tommy Lee",
+    "genre": "Pornográfico",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0069957",
+    "type": "movie",
+    "name": "Deep Throat Part II",
+    "name_pt": "Garganta Funda II",
+    "year": "1974.0",
+    "director": "Joseph W. Sarno",
+    "genre": "Pornográfico",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
     "id": "tt0089269",
     "type": "movie",
     "name": "Hellhole",
@@ -4563,6 +4654,19 @@
     ]
   },
   {
+    "id": "tt0088500",
+    "type": "movie",
+    "name": "Count Duckula",
+    "name_pt": "Patrácula - O Viajante no Tempo",
+    "year": "1988.0",
+    "director": "",
+    "genre": "Animação",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
     "id": "tt0093999",
     "type": "movie",
     "name": "Snow White",
@@ -4609,6 +4713,19 @@
     "year": "1981.0",
     "director": "Kinji Fukasaku",
     "genre": "Artes Marciais",
+    "formato": "VHS",
+    "formatos": [
+      "VHS"
+    ]
+  },
+  {
+    "id": "tt0094162",
+    "type": "movie",
+    "name": "Tong tian da dao",
+    "name_pt": "A Fúria do Dinheiro",
+    "year": "1987.0",
+    "director": "nao encontrado",
+    "genre": "Acção",
     "formato": "VHS",
     "formatos": [
       "VHS"
